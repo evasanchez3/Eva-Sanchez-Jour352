@@ -1,20 +1,25 @@
+/*Styles for my resume*/
+/*This changes the font for the body*/
 body {
   font-family: 'Open Sans', Arial, Sans-Serif;
   color: #444;
   font-size:1em;
   font-weight:400;
      }
+/*This alters my name*/
 h1 {
   font-size:3em;
   color:#33485e;
   text-align: center;
   text-transform: capitalize;
   }
+/*These styles are for my title, making them uppercase and blue*/
 strong {
   color:#33485e;
   text-transform:uppercase;
   font-size:1.5em;
       }
+/* My Section titles are changed by these styles*/
 h2 {
   background-color:#33485e;
   color:white;
@@ -22,19 +27,23 @@ h2 {
   font-size:1.5em;
   font-weight:400;
   }
+/* My job titles are changed by these styles*/
 h3 {
   font-weight:600;
   font-size:1.5em;
   }
+/* My job organizations size and boldness are changed by these styles*/
 h4 {
   font-weight:400;
   font-size:1.5;
   }
+/* The time periods are italicized, and bolded*/
 h5 {
   font-weight:400;
   font-style:italic;
   font-size:1em;
   }
+/* I created a div for my contact info, skills, and edu information*/
 div {
   font-size: 1em;
 }
