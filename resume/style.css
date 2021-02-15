@@ -1,12 +1,40 @@
 body {
-      font-family: 'Open Sans', Arial, Sans-Serif;
-      color: #444;
-      font-size:1em;
-      font-weight:400;
+  font-family: 'Open Sans', Arial, Sans-Serif;
+  color: #444;
+  font-size:1em;
+  font-weight:400;
      }
 h1 {
-    font-size:3em;
-    color:#33485e;
-    text-align: center;
-    text-transform: capitalize;
+  font-size:3em;
+  color:#33485e;
+  text-align: center;
+  text-transform: capitalize;
+  }
+strong {
+  color:#33485e;
+  text-transform:uppercase;
+  font-size:1.5em;
+      }
+h2 {
+  background-color:#33485e;
+  color:white;
+  text-transform:uppercase;
+  font-size:1.5em;
+  font-weight:400;
+  }
+h3 {
+  font-weight:600;
+  font-size:1.5em;
+  }
+h4 {
+  font-weight:400;
+  font-size:1.5;
+  }
+h5 {
+  font-weight:400;
+  font-style:italic;
+  font-size:1em;
+  }
+div {
+  font-size: 1em;
 }
