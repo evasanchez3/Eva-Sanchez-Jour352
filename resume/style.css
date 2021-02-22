@@ -7,11 +7,15 @@ body {
   font-weight:400;
      }
 /*This alters my name*/
-h1 {
+#name {
   font-size:3em;
   color:#33485e;
   text-align: center;
   text-transform: capitalize;
+  border-bottom: 1px solid #33485e;
+  min-width: 300px;
+  width: 60%;
+  margin: 0 auto center;
   }
 /*These styles are for my title, making them uppercase and blue*/
 strong {
