@@ -48,12 +48,61 @@ strong {
   font-size:1.25em;
   }
 /* The time periods are italicized, and bolded*/
-h5 {
+.date {
   font-weight:400;
   font-style:italic;
   font-size:1em;
+  margin-top:2px;
+  margin-bottom:0px;
+  margin-right:0px;
+  margin-left:0px;
+
   }
 /* I created a div for my contact info, skills, and edu information*/
-section {
+.description {
   font-size: 1em;
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-left:0px;
+  margin-right:0px;
 }
+
+.menu {
+  margin:0px;
+  padding:0px;
+  text-align:center;
+  }
+
+  .menu li{
+    display: inline;
+  }
+
+  #degrees li{
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left:0px;
+  }
+
+  #do li{
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left:0px;
+  }
+
+  #title {
+    font-weight:600;
+    text-align: center;
+    margin-top:20px;
+    margin-bottom:0px;
+    margin-right: 0px;
+    margin-left:0px;
+  }
+
+ .top {
+   width:60%;
+   min-width:300px;
+   margin-bottom:30px;
+   margin:0 auto ;
+ }
