@@ -32,3 +32,11 @@ line-height: 180%;
 figcaption {
 text-align: center;
 }
+
+footer{
+    background-color: black;
+    padding: 50px;
+    margin-bottom:20px;
+    color:white;
+    text-align: center;
+}
