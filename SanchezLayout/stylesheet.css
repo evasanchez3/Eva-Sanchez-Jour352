@@ -1,7 +1,8 @@
 #content {
   margin: 0 auto;
   width: 900px;
-  font-family: 'Averia Serif Libre', cursive;
+  font-family: Georgia, serif;
+  font-size: 13px;
 }
 
 #masthead {
@@ -19,7 +20,13 @@ font-family: 'Averia Serif Libre', cursive;
 
 #headline {
   text-align: center;
-  font-family: 'Averia Serif Libre', cursive;
-  font-size: 3em;
+  font-family: Helvetica, sans-serif;
+  font-size: 1.5em;
   font-weight: lighter;
+}
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
 }
