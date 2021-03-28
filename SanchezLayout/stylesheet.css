@@ -1,4 +1,25 @@
 #content {
   margin: 0 auto;
   width: 900px;
+  font-family: 'Averia Serif Libre', cursive;
+}
+
+#masthead {
+text-align: center;
+font-weight: bold;
+font-size: 5em;
+border-width: thick;
+border-top: .1em;
+border-left: .1em;
+border-right: .1em;
+border-bottom: .1em;
+border-style: solid;
+font-family: 'Averia Serif Libre', cursive;
+}
+
+#headline {
+  text-align: center;
+  font-family: 'Averia Serif Libre', cursive;
+  font-size: 3em;
+  font-weight: lighter;
 }
