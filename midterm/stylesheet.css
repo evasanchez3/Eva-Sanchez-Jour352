@@ -92,3 +92,21 @@
   font-size: 1em;
   font-family: 'Bitter', serif;
 }
+
+#byline {
+    font-family: 'Bitter', serif;
+    font-size:1.5em;
+}
+
+#pagewrapper {
+/*STYLE is missing here as because of how it messed my page up*/
+}
+
+
+blockquote {
+  background-color: #7E53C9;
+  color: white;
+  font-family: 'Bitter', serif;
+}
+
+/* I wanted this to be to the right of the image and I tried so many different ways but nothing was working*/
