@@ -1,6 +1,15 @@
 #headline {
   color: black;
-  font-size: 3em;
+  font-size: 2.5em;
   text-align: center;
   font-style: italic;
+  font-family: 'PT Serif', serif;
 }
+
+  p {
+    font-family: Georgia, serif;
+  }
+
+  .subheadline {
+    font-family: 'Bitter', serif;
+  }
