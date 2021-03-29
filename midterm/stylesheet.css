@@ -7,9 +7,88 @@
 }
 
   p {
-    font-family: Georgia, serif;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
   }
 
   .subheadline {
     font-family: 'Bitter', serif;
+    background-color: #7E53C9;
+    color:white;
   }
+
+#masthead {
+  text-align: center;
+  font-weight: bold;
+  font-size: 5em;
+  border-width: thick;
+  border-top: .1em;
+  border-left: .1em;
+  border-right: .1em;
+  border-bottom: .1em;
+  border-style: solid;
+  font-family: 'Averia Serif Libre', cursive;
+  background-color: #7E53C9;
+  color: white;
+}
+
+#box1 {
+  float: left;
+  background-color: #7E53C9;
+  width: 240px;
+  margin-right: 10px;
+  height: 25px;
+  text-align: center;
+  color: white;
+  font-size: 1em;
+  font-family: 'Bitter', serif;
+}
+
+#box2 {
+  float: left;
+  background-color: #7E53C9;
+  width: 240px;
+  margin-right: 10px;
+  height: 25px;
+  text-align: center;
+  color: white;
+  font-size: 1em;
+  font-family: 'Bitter', serif;
+}
+
+#box3 {
+  float: left;
+  background-color: #7E53C9;
+  width: 240px;
+  margin-right: 10px;
+  height: 25px;
+  text-align: center;
+  color: white;
+  font-size: 1em;
+  font-family: 'Bitter', serif;
+
+}
+
+#box4 {
+  float: left;
+  background-color: #7E53C9;
+  width: 235px;
+  margin-right: 10px;
+  height: 25px;
+  text-align: center;
+  color: white;
+  font-size: 1em;
+  font-family: 'Bitter', serif;
+}
+
+#box5 {
+  float: left;
+  background-color: #7E53C9;
+  width: 240px;
+  margin-right: 10px;
+  height: 25px;
+  text-align: center;
+  color: white;
+  font-size: 1em;
+  font-family: 'Bitter', serif;
+}
