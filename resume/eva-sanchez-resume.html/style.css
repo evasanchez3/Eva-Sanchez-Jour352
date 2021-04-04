@@ -1,4 +1,17 @@
 #nav {
   background-color: B6D084;
   color:FFCB32;
-}
+    }
+
+.description {
+  font-family: 'PT Serif', serif;
+  color: #2F7604;
+    }
+
+.sectionheader {
+  font-family: 'PT Serif', serif;
+  color: #FFCB32;
+    }
+.jobtitle {
+  font-family: 'PT Sans', sans-serif;
+    }
