@@ -17,11 +17,16 @@
 <link href="https://fonts.googleapis.com/css2?family=PT+Serif&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=PT+Sans&family=PT+Serif&display=swap" rel="stylesheet">
 <!--End fonts-->
+
+<!--bootstrap for grids-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
 
   <body>
 <!--Nav bar-->
-    <div id="nav"><nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="navbar">
+      <div class="navbar-text">
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <a class="navbar-brand" href="#">Eva Sanchez</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -50,8 +55,10 @@
       </div>
     </nav>
     </div>
+    </div>
 <!--End Nav Bar-->
-
+<br>
+<br>
 <!--header and image -->
   <center><img src="Teeth.jpg" alt="Alligator teeth"  width="90%"></center>
 
@@ -116,9 +123,13 @@
     </ul>
   </div>
 
-  <div class="sectionheader">Portfolio:</div>
-  <img src="DSC_6202.jpg" alt="Del"  width="100%">
-  <img src="DSC_6381.jpg" alt="Cay and Ju"  width="100%">
-  <img src="Julia.jpg" alt="Ju"  width="100%">
+  <div class="container-fluid">
+  <center><div class="sectionheader">Portfolio:</div></center>
+  <div class="row">
+  <div class="col-xs-6 col-md-4"><img src="Julia.jpg" alt="Ju" height="90%" width="100%"></div>
+  <div class="col-xs-6 col-md-4"><img src="DSC_6202.jpg" alt="Del" height="90%" width="100%"></div>
+  <div class="col-xs-6 col-md-4"><img src="DSC_6381.jpg" alt="Cay and Ju" height="90%" width="100%"></div>
+  </div>
+  </div>
 
   </body>

@@ -1,18 +1,22 @@
-#nav {
-  background-color: B6D084;
-  color:FFCB32;
+.navbar {
+  background-color: #B6D084;
+    }
+
+.navbar-text {
+  color:#FFCB32;
     }
 
 .description {
   font-family: 'PT Serif', serif;
   color: #2F7604;
+  font-size: 1em;
     }
 
 .sectionheader {
   font-family: 'PT Serif', serif;
   color: #FFCB32;
   text-transform:uppercase;
-  font-size:2em;
+  font-size:2.5em;
   font-weight:400;
   width: 70%;
   min-width:300px;
@@ -43,3 +47,7 @@
       margin-right:0px;
       margin-left:0px;
     }
+
+  .row {
+    background-color: #B6D084;
+  }
