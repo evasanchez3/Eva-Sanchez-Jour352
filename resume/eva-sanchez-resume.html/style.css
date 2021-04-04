@@ -50,4 +50,10 @@
 
   .row {
     background-color: #B6D084;
-  }
+    }
+
+  #do {
+      font-family: 'PT Serif', serif;
+      color: #2F7604;
+      font-size: 1em;
+      }
