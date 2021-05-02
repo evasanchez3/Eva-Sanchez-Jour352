@@ -8,12 +8,13 @@
 
 p {
   font-size: 1em;
+  font-family: 'Noto Serif JP', serif;
   }
 
 #headline {
   color: black;
-  font-size: 3em;
-  font-family: 'Noto Serif JP', serif;
+  font-size: 3.5em;
+  font-family: 'DM Serif Text', serif;
   font-weight: bold;
   padding-top: 100px;
   }
@@ -21,7 +22,7 @@ p {
 #byline {
   color: black;
   font-size: 1.15em;
-  font-family: 'Noto Serif JP', serif;
+  font-family: 'DM Serif Text', serif;
   }
 
 figcaption {
