@@ -1,2 +1,25 @@
 p {
-  font-family: 'Noto Serif JP', serif;}
+  font-size: 1em;
+  }
+
+#headline {
+  color: black;
+  font-size: 3em;
+  font-family: 'Noto Serif JP', serif;
+  font-weight: bold;
+  padding-top: 100px;
+  }
+
+#byline {
+  color: black;
+  font-size: 1.15em;
+  font-family: 'Noto Serif JP', serif;
+  }
+
+figcaption {
+  font-size: .75em;
+  }
+
+#navbar {
+  font-size: 2em;
+  }
