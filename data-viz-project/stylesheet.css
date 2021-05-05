@@ -10,7 +10,7 @@ p {
 #headline {
   color: black;
   font-size: 3.5em;
-  font-family: 'DM Serif Text', serif;
+  font-family: 'Noto Serif JP', serif;
   font-weight: bold;
   padding-top: 100px;
   }
@@ -36,4 +36,11 @@ figcaption {
 
 h2 {
 font-weight:bold;
+  }
+
+blockquote {
+  color: #800020;
+  font-family: 'Staatliches', cursive;
+  font-size: 2em;
+  letter-spacing: 5px;
   }
